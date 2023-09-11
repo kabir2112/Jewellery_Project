@@ -1,1 +1,1 @@
-# Jewellery_Project
+# Jewellery_Management_Project
